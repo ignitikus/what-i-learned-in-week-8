@@ -25,5 +25,6 @@ Event listeners, loops and lists.
 
 [If you can't sleep, count sheep!!](./pictures/sheep.png) - Task:
 Given a non-negative integer, 3 for example, return a string with a murmur: "1 sheep...2 sheep...3 sheep...". Input will always be valid, i.e. no negative integers. \
-[Don't give me five](./pictures/don't&#32;give&#32;me&#32;five.png) - In this kata you get the start number and the end number of a region and should return the count of all numbers except numbers with a 5 in it. The start and the end number are both inclusive!\ 
-[Mexican wave]() - 
+[Don't give me five](./pictures/don't&#32;give&#32;me&#32;five.png) - In this kata you get the start number and the end number of a region and should return the count of all numbers except numbers with a 5 in it. The start and the end number are both inclusive! \
+[Mexican wave](./pictures/Mexican&#32;Wave.png) -	In this simple Kata your task is to create a function that turns a string into a Mexican Wave. You will be passed a string and you must return that string in an array where an uppercase letter is a person standing up.
+ 
