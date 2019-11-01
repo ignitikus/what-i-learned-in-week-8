@@ -14,13 +14,14 @@ Used node app and reworked it into HTML with prompt and output on a page.
 Exercise about calling using function to call another function.
 
 ## [Domosaur](https://github.com/ignitikus/domosaur/blob/master/main.js)
-.addEventListener('click/mouseenter/etc',function)
+.addEventListener('click/mouseenter/etc',function) <br>
 Learned how to add an event listener on a page. 
 
-## Extinction Event
+## [Extinction Event](https://github.com/ignitikus/extinction-event/blob/master/main.js)
+Event listeners, loops and lists.
 
 
-## Code Wars
+## Code Wars:
 
     If you can't sleep, count sheep!!
     Don't give me five
