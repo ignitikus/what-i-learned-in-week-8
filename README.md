@@ -5,9 +5,10 @@ Learned how to call functions withing functions
 
 ## Promtulate
 Learned how to work in a small group.
-Exercise was about using JS to manipulate DOM to make it work with user input(simple calculation)
+Exercise was about using JS to manipulate DOM to make it to prompt user to make input(simple calculator).
 
-## Iffy Website
+## [Iffy Website](https://github.com/ignitikus/iffy-website-bill-splitting)
+Used node app and reworked it into HTML with prompt and output on a page.
 
 ## Functulate
 
