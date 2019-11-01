@@ -10,7 +10,8 @@ Exercise was about using JS to manipulate DOM to make it to prompt user to make 
 ## [Iffy Website](https://github.com/ignitikus/iffy-website-bill-splitting)
 Used node app and reworked it into HTML with prompt and output on a page.
 
-## Functulate
+## [Funculate](https://github.com/ignitikus/funculate/blob/master/calculate.js)
+Exercise about calling using function to call another function.
 
 ## Domosaur
 
