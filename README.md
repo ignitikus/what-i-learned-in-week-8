@@ -4,7 +4,8 @@
 Learned how to call functions withing functions
 
 ## Promtulate
-Group exercise
+Learned how to work in a small group.
+Exercise was about using JS to manipulate DOM to make it work with user input(simple calculation)
 
 ## Iffy Website
 
