@@ -13,7 +13,9 @@ Used node app and reworked it into HTML with prompt and output on a page.
 ## [Funculate](https://github.com/ignitikus/funculate/blob/master/calculate.js)
 Exercise about calling using function to call another function.
 
-## Domosaur
+## [Domosaur](https://github.com/ignitikus/domosaur/blob/master/main.js)
+.addEventListener('click/mouseenter/etc',function)
+Learned how to add an event listener on a page. 
 
 ## Extinction Event
 
